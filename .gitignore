@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+*.log
+__pycache__/
+*.py[cod]
+build/
+dist/
+release/
+*.exe
